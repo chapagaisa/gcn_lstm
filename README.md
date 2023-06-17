@@ -2,7 +2,7 @@
 
 ### Exploring the Effectiveness of Functional Network Embedding and Sequence Modeling for Time Series Classification
 
-<img width="933" alt="FinalDiagram" src="https://github.com/chapagaisa/gcn_lstm/assets/46834070/a2eeac5c-8ae7-48cb-b5b0-69f4aac30282">
+<img width="660" alt="FinalDiagramV2" src="https://github.com/chapagaisa/gcn_lstm/assets/46834070/cbbdaae6-fa13-43cf-895e-0867a4346fe3">
 
 Figure 1: Embedding of functional networks with node attributes using GCN, and sequence embedding using LSTM.
 
